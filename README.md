@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussain1306" alt="hussain1306" /></a> </p>
 
-- 🔭 I’m currently working on **MERL-UIT**
+- 🔭 I’m currently working on **CodeVative**
 
-- 🌱 I’m currently learning **Chisel,Scala**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hussain1306](https://github.com/Hussain1306)
 
