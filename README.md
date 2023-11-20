@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hussain Naqvi</h1>
 <h3 align="center">I am Computer System Engineer.</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hussain1306)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?Hussain1306=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" /></a> </p>
 
 - 🔭 I’m currently working on **CodeVative**
