@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working at **CodeVative**.
 
-- 🌱 I’m currently learning **Python**.
+- 🌱 I’m currently learning [**Python**](https://www.python.org).
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hussain1306](https://github.com/Hussain1306)
+- 👨‍💻 All of My Projects are available at [https://github.com/Hussain1306](https://github.com/Hussain1306)
 
 - 💬 Ask me about **Python, C++, HTML**.
 
