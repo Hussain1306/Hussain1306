@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of My Projects are available at [https://github.com/Hussain1306](https://github.com/Hussain1306)
 
-- 💬 Ask me about **Python, C++, HTML**.
+- 💬 Ask me about [**Python**](https://www.python.org), [**C++**](https://www.w3schools.com/cpp/), [**HTML**](https://www.w3schools.com/html/).
 
 - 📫 How to reach me **hussainnaqvi1306@gmail.com**.
 
