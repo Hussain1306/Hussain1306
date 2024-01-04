@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://camo.githubusercontent.com/8189e5e3e5c0848ed6d22ea591e0cf962323ec716135617e1a3e25aae9cfe71d/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667(https://techstack-generator.vercel.app/python-icon.svg)" alt="python" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://github.com" target="_blank"> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> </a> 
 <a href="https://en.wikipedia.org/wiki/REST" target="_blank"> <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restapi" width="40" height="40"/> </a> 
