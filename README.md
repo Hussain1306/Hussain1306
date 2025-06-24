@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Hussain1306.Hussain1306" alt="Hussain1306" /></p>
 
-- 🔭 I’m currently working at **Property Wallet**.
+- 🔭 I’m **Open to Work**.
 
 - 🌱 I’m currently learning [**Python**](https://www.python.org).
 
