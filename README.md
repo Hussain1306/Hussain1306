@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hussain Naqvi</h1>
 <h3 align="center">I am Computer System Engineer.</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hussain1306&theme=onedark)
+
+
+
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?Hussain1306=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" /></a> </p>
 
@@ -37,3 +39,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain1306" alt="Hussain1306"/></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain1306&" alt="Hussain1306" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hussain1306&show_icons=true&locale=en" alt="Hussain1306" /></p>
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hussain1306&theme=default" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hussain1306&theme=default" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussain1306&theme=default&utcOffset=8)" /> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hussain1306&theme=monokai" />
