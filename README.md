@@ -2,12 +2,21 @@
 <h3 align="center">I am Computer System Engineer.</h3>
 
 
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=Hussain1306&theme=dracula&column=11'>
+<!-- <img algin='left' width='49.7%' src='https://readme-stats-fabio-vicente.vercel.app/api?username=Hussain1306&count_private=true&show_icons=true&theme=dracula' />
+<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=Hussain1306&theme=dracula' />
+</p> -->
 
 
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?Hussain1306=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" /></a> </p>
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Hussain1306.Hussain1306" alt="Hussain1306" /></p>
+
+
+
+
+
 
 - 🔭 I’m **Open to Work**.
 
@@ -37,7 +46,7 @@
 <h3 align="left">Support:</h3>
 <p a href="https://www.buymeacoffee.com/hussainnaqp" align="center"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hussainnaqp" /></a></p><br><br><br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain1306" alt="Hussain1306"/></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain1306&" alt="Hussain1306" /></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain1306&" alt="Hussain1306" /></p> -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hussain1306&show_icons=true&locale=en" alt="Hussain1306" /></p>
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hussain1306&theme=default" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hussain1306&theme=default" />
