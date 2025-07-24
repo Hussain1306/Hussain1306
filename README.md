@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hussain Naqvi</h1>
 <h3 align="center">I am Computer System Engineer.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hussain1306&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hussain1306&show_icons=true&theme=onedark)
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?Hussain1306=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" /></a> </p>
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Hussain1306.Hussain1306" alt="Hussain1306" /></p>
