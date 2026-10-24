@@ -19,15 +19,14 @@
 
 
 
-- 🔭 I’m **Open to Work**.
-
-- 🌱 I’m currently learning [**Python**](https://www.python.org).
-
-- 👨‍💻 All of My Projects are available at [**https://github.com/Hussain1306**](https://github.com/Hussain1306)
-
-- 💬 Ask me about [**Python**](https://www.python.org), [**C++**](https://www.w3schools.com/cpp/), [**HTML**](https://www.w3schools.com/html/).
-
-- 📫 How to reach me **hussainnaqvi1306@gmail.com**.
+- 🔭 I'm an **AI Engineer | LLM Engineer | AI Automation Specialist**, open to exciting opportunities.
+- 🤖 I build **AI agents, agentic systems, RAG applications, and production-ready automation workflows**.
+- ⚙️ Experienced in **Python, n8n, FastAPI, LangChain, LangGraph, MCP, and AI API integrations**.
+- 🌱 Currently exploring advanced **multi-agent systems, AI-native software development, and intelligent automation**.
+- 👨‍💻 Explore my projects: [**GitHub Repositories**](https://github.com/Hussain1306)
+- 💬 Ask me about **Python, AI Agents, LLMs, RAG, n8n, MCP, FastAPI, API Integrations, and Workflow Automation**.
+- 📫 Reach me at **hussainnaqvi1306@gmail.com**
+- 🔗 Connect with me on [**LinkedIn**](https://linkedin.com/in/hussain-n-b99279209).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
