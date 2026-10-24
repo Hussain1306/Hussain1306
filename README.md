@@ -63,7 +63,7 @@
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hussain1306&theme=default" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hussain1306&theme=default" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussain1306&theme=default&utcOffset=8)" /> -->
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hussain1306&theme=monokai" /> --> -->
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hussain1306&theme=monokai" /> -->
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hussain1306&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
@@ -76,5 +76,5 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain1306&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussain1306&theme=tokyonight&utcOffset=5" alt="Productive Time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussain1306&theme=tokyonight&utcOffset=5" alt="Productive Time" />
 </p>
