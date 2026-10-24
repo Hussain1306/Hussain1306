@@ -76,5 +76,5 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain1306&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussain1306&theme=tokyonight&utcOffset=5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussain1306&theme=tokyonight&utcOffset=5" alt="Productive Time" />
 </p>
