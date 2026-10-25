@@ -67,6 +67,7 @@
 
 <p align="center">
   <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hussain1306&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" /> -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain1306&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain1306&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
@@ -75,6 +76,5 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hussain1306&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hussain1306&theme=tokyonight&utcOffset=5" alt="Productive Time" />
 </p>
